@@ -14,16 +14,16 @@ The stock can't be listed on pink sheets or traded over the counter. It must be 
 As of Oct. 29, 2021, the 10 largest companies, with a weighted market cap, in the S&P 500 were:5
 
 
-Microsoft Corp.
-Apple Inc.
-Amazon.com Inc.
-Tesla Inc.
-Alphabet Inc. A (GOOGL)
-Alphabet Inc. C (GOOG)
-Facebook Inc. A (now Meta)
-Nvidia Corp.
-Berkshire Hathaway B
-JP Morgan Chase & Co.
+1) Microsoft Corp.
+2) Apple Inc.
+3) Amazon.com Inc.
+4) Tesla Inc.
+5) Alphabet Inc. A (GOOGL)
+6) Alphabet Inc. C (GOOG)
+7) Facebook Inc. A (now Meta)
+8) Nvidia Corp.
+9) Berkshire Hathaway B
+10) JP Morgan Chase & Co.
 
 # Prediction model
 ![image](https://user-images.githubusercontent.com/86925605/147908094-e1233aad-2b1b-4f24-bf33-c5d8a6c93a79.png)
